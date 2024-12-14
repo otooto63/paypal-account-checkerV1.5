@@ -1,0 +1,32 @@
+
+========================[SUCCESS LOGIN!]==========================
+    EMAIL    : gproietti9042@aol.com
+    PASSWORD : RosaCecilia2023
+    [INFO ACCOUNT]
+    NAME     : Amy Fowler
+    PHONE    : (375) 250-2877
+    ADDRESS  : 7067 Spring St
+    CITY     : Stanley
+    STATE    : Montana
+    POSTCODE : 89433
+    COUNTRY  : United States
+    WALLET   : MASTERCARD DEBIT •••• 1181
+    BALLANCE : $14,-
+=========================================================
+
+
+========================[SUCCESS LOGIN!]==========================
+    EMAIL    : austin_daffy@yahoo.com
+    PASSWORD : lucrecia1538
+    [INFO ACCOUNT]
+    NAME     : Francisco Bailey
+    PHONE    : (918) 861-0321
+    ADDRESS  : 6050 Shady Ln Dr
+    CITY     : Flint
+    STATE    : Alaska
+    POSTCODE : 31933
+    COUNTRY  : United States
+    WALLET   : VISA DEBIT •••• 0255
+    BALLANCE : $2,-
+=========================================================
+
