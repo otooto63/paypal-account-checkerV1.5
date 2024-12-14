@@ -19,7 +19,7 @@ enterlist:
 echo "$WH [$GR+$WH] Your file ($YL example.txt $WH) $GR>> $BL";
 $listname = trim(fgets(STDIN));
 if (empty($listname) || !file_exists($listname)) {
-    echo PHP_EOL . PHP_EOL . "$WH [$YL!$WH] $RD FILE NOT FOUND$WH [$YL!$WH]$DEF" . PHP_EOL . PHP_EOL;
+    echo PHP_EOL . PHP_EOL . "$WH [$YL!$WH]$RD FILE NOT FOUND$WH [$YL!$WH]$DEF" . PHP_EOL . PHP_EOL;
     goto enterlist;
 }
 $lists = array_unique(explode("\n", str_replace("\r", "", file_get_contents($listname))));
