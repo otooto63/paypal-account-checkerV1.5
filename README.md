@@ -37,7 +37,7 @@ Feature :<br />
 <img src="https://github.com/ZLaxtert/paypal-account-checkerV1.5/blob/main/ress.png">
 
 ## Screenshot Result Info Login
-<img src="https://github.com/ZLaxtert/paypal-account-checkerV1.5blob/main/ress2.png">
+<img src="https://github.com/ZLaxtert/paypal-account-checkerV1.5/blob/main/ress2.png">
 
 ## Demo Video
 <img src="https://github.com/ZLaxtert/paypal-account-checkerV1.5/blob/main/pp-checker.mp4">
