@@ -17,4 +17,5 @@ type_proxy = proxy type (example: http , https or socks)
 apikey     = paste your apikey in file apikey.txt
 API        = Don't change text in file API.txt
 
+NOTE: IF YOU WANT TO RUN THE TOOLS YOU NEED APIKEY and API
 ==================================================================================================
