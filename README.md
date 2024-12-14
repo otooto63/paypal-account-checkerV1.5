@@ -40,5 +40,6 @@ Feature :<br />
 <img src="https://github.com/ZLaxtert/paypal-account-checkerV1.5/blob/main/ress2.png">
 
 ## Demo Video
-<img src="https://github.com/ZLaxtert/paypal-account-checkerV1.5/blob/main/pp-checker.mp4">
+https://github.com/user-attachments/assets/e9776970-d332-4cbb-9e7d-60093cb5f16b
+
 
