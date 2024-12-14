@@ -127,7 +127,6 @@ foreach ($lists as $list) {
     } else {
         $err++;
         save_file("result/error.txt", "$list");
-        //echo $x.PHP_EOL;
         echo "$WH [$YL$iniJam$WH][$RD$no$DEF/$GR$total$DEF]$MG error$DEF =>$BL $list$DEF | [$YL MSG$DEF:$MG ERROR$DEF ] | BY$CY DARKXCODE$DEF (1.5)" . PHP_EOL;
     }
 
